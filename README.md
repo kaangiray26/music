@@ -1,0 +1,2 @@
+# music
+A music blog
